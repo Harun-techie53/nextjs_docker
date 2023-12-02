@@ -1,0 +1,35 @@
+.home-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 5rem;
+    padding: 2rem 0rem;
+  }
+  .input-box {
+    width: 60%;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  label {
+    margin-bottom: 10px;
+  }
+  button {
+    margin-top: 10px;
+  }
+  .previous-inputs-box {
+    width: 40%;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+
+.list-items {
+    width: auto;
+}
